@@ -1,0 +1,37 @@
+[
+  {
+    "id": 1,
+    "nombre": "Super Mario 64",
+    "genero": "Plataformas",
+    "año": 1996,
+    "studioId": 1
+  },
+  {
+    "id": 2,
+    "nombre": "The Last of Us",
+    "genero": "Acción/Aventura",
+    "año": 2013,
+    "studioId": 2
+  },
+  {
+    "id": 3,
+    "nombre": "Grand Theft Auto V",
+    "genero": "Mundo Abierto",
+    "año": 2013,
+    "studioId": 3
+  },
+  {
+    "id": 4,
+    "nombre": "Elden Ring",
+    "genero": "Action RPG",
+    "año": 2022,
+    "studioId": 4
+  },
+  {
+    "id": 5,
+    "nombre": "The Witcher 3: Wild Hunt",
+    "genero": "RPG",
+    "año": 2015,
+    "studioId": 5
+  }
+]

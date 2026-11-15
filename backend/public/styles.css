@@ -1,0 +1,20 @@
+body {
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+    margin: 0;
+}
+
+main {
+    flex: 1 0 auto;
+    
+    margin-top: 0 !important; 
+    
+    padding-top: 3rem; 
+    padding-bottom: 3rem;
+}
+
+
+footer {
+    flex-shrink: 0;
+}

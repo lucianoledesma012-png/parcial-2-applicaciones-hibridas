@@ -1,0 +1,22 @@
+[
+  {
+    "id": 1,
+    "nombre": "Nintendo EAD"
+  },
+  {
+    "id": 2,
+    "nombre": "Naughty Dog"
+  },
+  {
+    "id": 3,
+    "nombre": "Rockstar North"
+  },
+  {
+    "id": 4,
+    "nombre": "FromSoftware"
+  },
+  {
+    "id": 5,
+    "nombre": "CD Projekt Red"
+  }
+]
